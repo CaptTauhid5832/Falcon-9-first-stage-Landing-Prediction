@@ -14,3 +14,6 @@ Applied Data Science Capstone – IBM
 
 ## Key Outcome
 The project identifies key factors that influence successful rocket landings, supporting data-driven decision-making.
+
+## Author
+CaptTauhid5832
